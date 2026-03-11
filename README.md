@@ -22,19 +22,19 @@ La API permite realizar operaciones CRUD sobre los tópicos del foro.
 
 Endpoints disponibles:
 
- Método  Endpoint  Descripción 
+ Método - Endpoint - Descripción 
 
- POST  `/auth/login`  Autenticación y generación de token JWT 
+ POST - `/auth/login` - Autenticación y generación de token JWT 
  
- GET  `/topicos`  Listar todos los tópicos 
+ GET - `/topicos` - Listar todos los tópicos 
 
- GET  `/topicos/{id}`  Obtener un tópico por ID 
+ GET - `/topicos/{id}` - Obtener un tópico por ID 
  
- POST  `/topicos`  Crear un nuevo tópico 
+ POST - `/topicos` - Crear un nuevo tópico 
  
- PUT  `/topicos/{id}`  Actualizar un tópico 
+ PUT - `/topicos/{id}` - Actualizar un tópico 
  
- DELETE  `/topicos/{id}`  Eliminar un tópico 
+ DELETE - `/topicos/{id}` - Eliminar un tópico 
 
 
 ## Autenticación
