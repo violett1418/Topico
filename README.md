@@ -1,7 +1,7 @@
 # Topico API
 
 API REST desarrollada con **Spring Boot** para la gestión de tópicos de un foro.  
-Este proyecto fue realizado como parte del **Challenge Foro Hub (Oracle Next Education / Alura)**.
+Este proyecto fue realizado como parte del **Challenge Foro Hub **.
 
 
 ## Tecnologías utilizadas
