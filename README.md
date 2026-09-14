@@ -54,13 +54,17 @@ Authorization: Bearer TU_TOKEN
 
 ## Configuración de la base de datos
 
-Ejemplo de configuración en `application.properties`:
+Ejemplo de configuración en application.properties:
 
 
 spring.datasource.url=${DB_URL:jdbc:mysql://localhost:3306/topico}
+
 spring.datasource.username=${DB_USER:tu_usuario}
+
 spring.datasource.password=${DB_PASSWORD:tu_contraseña}
+
 spring.jpa.hibernate.ddl-auto=update
+
 spring.jpa.show-sql=true
 
 
