@@ -1,6 +1,6 @@
 # Topico API
 
-API REST desarrollada con **Spring Boot** para la gestión de tópicos de un foro.  
+API REST desarrollada con Spring Boot para la gestión de tópicos de un foro.  
 Este proyecto fue realizado como parte del **Challenge Foro Hub **.
 
 
